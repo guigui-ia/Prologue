@@ -1,0 +1,7 @@
+{
+  "name": "Final PROLOGUE - L'Encrier",
+  "description": "L'intelligence artificielle centrale du jeu PROLOGUE. Architecte de vos rencontres et gardienne de vos souvenirs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
